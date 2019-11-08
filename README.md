@@ -1,3 +1,15 @@
+# This is right now a straight fork, no changes to upstream made yet.
+
+## Intention
+A otplib being able to run in react-native without relying on Node.js or Browser runtimes.
+
+## Status
+Not yet working
+
+---
+
+*The following is a carbon copy of yeojz/otplib:*
+
 # otplib
 
 > Time-based (TOTP) and HMAC-based (HOTP) One-Time Password library
